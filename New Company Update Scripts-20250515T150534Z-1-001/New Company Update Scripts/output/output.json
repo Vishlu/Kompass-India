@@ -1,0 +1,63 @@
+{
+    "companyId": "INA00763",
+    "executives": [
+        {
+            "isoCode": "en",
+            "executiveType": "executive",
+            "mainfunction": "5901",
+            "salutation": "Mr.",
+            "firstName": "Hemang",
+            "lastName": "Gosaliya",
+            "functionName": "Purchasing Director/Manager",
+            "emailAddress": "hemang.gosaliya@zyduscadila.com",
+            "order": 1,
+            "source": "KDL_01_03_2025",
+            "mobilePhoneNumber": {
+                "countryPhoneCode": "",
+                "number": ""
+            },
+            "socialNetworks": [
+                {
+                    "address": "http://www.linkedin.com/in/hemang-gosaliya-5917ab148"
+                }
+            ]
+        }
+    ],
+    "names": [
+        {
+            "isoCode": "en",
+            "name": "Zydus Group",
+            "continuation": ""
+        }
+    ],
+    "webSites": [
+        {
+            "url": "https://www.zydushealthcare.com/",
+            "source": "KDL_01_03_2025"
+        }
+    ],
+    "address": [
+        {
+            "isoCode": "en",
+            "street": "Zydus Tower, CTS No. 460/6,",
+            "complement": "Village Pahadi. Off I.B. Patel Road, Goregaon East, ",
+            "zipCode": "400063",
+            "city": "Mumbai ",
+            "country": "IN",
+            "type": "VIS",
+            "source": "KDL_01_03_2025"
+        }
+    ],
+    "activities": [
+        {
+            "isoCode": "en",
+            "source": "KDL_01_03_2025",
+            "value": "Zydus Healthcare Limited, a subsidiary of Zydus Lifesciences Limited (formerly Cadila Healthcare Limited), is a prominent pharmaceutical manufacturer headquartered in Mumbai, India. Established in the 1950s, the company has evolved into a leading supplier of high-quality pharmaceutical formulations, serving both domestic and international markets. The company's extensive product portfolio encompasses over 350 brands across 15 therapeutic areas, including cardiology, diabetology, dermatology, gastroenterology, gynecology, hormones, infectious diseases, critical care, neuro-psychiatry, pain management, respiratory, and vitamins, minerals, and supplements. Zydus Healthcare operates four state-of-the-art manufacturing units\u2014two in Sikkim and two in Daman\u2014that collectively contribute to approximately 90% of its product offerings. These facilities produce tablets, capsules, hormone products, ointments, metered-dose inhalers, injectables, and antibiotics, adhering to stringent quality standards to ensure patient safety and efficacy."
+        }
+    ],
+    "inkc": 1,
+    "iebol": 1,
+    "establishmentTypes": [
+        "HQ"
+    ]
+}
